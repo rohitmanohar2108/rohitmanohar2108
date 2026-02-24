@@ -7,12 +7,14 @@ I am a Computer Science Student at NITK. I have a deep passion for coding and co
 
 - **[Synqly](https://github.com/rohitmanohar2108/Synqly)** – Real-time WebRTC communication with custom signaling and Dockerized deployment.  
 - **[Fake Job Posting Detection](https://github.com/rohitmanohar2108/Fake-Job-Post-Detection-ML-Model-)** – Detect fraudulent job postings using a machine learning model trained on job metadata and textual features.
+- **[Image Super Resolution](https://github.com/rohitmanohar2108/image-resolution)** – This is a project where the goal is to enhance the brightness of low light image and then pass it to the super resolution model to enhance the visibility and clarity of the image and removing the noise such that the output image is much more clear and visibily pleasing and aesthetically appealing.
 - **[Real Time Chat Application](https://github.com/rohitmanohar2108/Real_Time_Chat_Application)** - This project is a scalable real-time WebSocket application built using Node.js, WebSockets, and Redis (Valkey-compatible) deployed on Aiven Cloud.
 - **[Real_Time_Device_Tracker](https://github.com/rohitmanohar2108/Real_Time_Device_Tracker)** - This project is a scalable real-time WebSocket application built using Node.js, WebSockets, and Redis (Valkey-compatible) deployed on Aiven Cloud.
 - **[Air Wise](https://github.com/rohitmanohar2108/Airline_Reservation_System)** – Developed a web application that allows users to book seats across various airline services.
 - **[Crypto Trade Simulator](https://github.com/rohitmanohar2108/Crypto-Trade-Simulator)** - A high-performance, real-time cryptocurrency trade simulator that connects to the OKX exchange’s L2 orderbook.
-- **[QuickRent](https://github.com/rohitmanohar2108/QuickRent)** - QuickRent is a web application that allows users to easily explore, rent, and manage gadgets online.This OS-Simulator project is built by a team of 10 students from NITK, Surathkal, in partial fulfilment of the Operating Systems course (CS252) offered by the CSE Department of the institute.QuickRent is a web application that allows users to easily explore, rent, and manage gadgets online.
-
+- **[QuickRent](https://github.com/rohitmanohar2108/QuickRent)** - QuickRent is a web application that allows users to easily explore, rent, and manage gadgets online.
+- **[OS LAB PROJECT](https://github.com/rohitmanohar2108/OS-LAB-PROJECT)** -This OS-Simulator project is built by a team of 10 students from NITK, Surathkal, in partial fulfilment of the Operating Systems course (CS252) offered by the CSE Department of the institute.
+- **[The Chess Clock](https://github.com/rohitmanohar2108/DDS-Mini-Project-23-24-The-Chess-Clock)** -A digital clock designed for chess games. It mainly consists of two timers which cannot count at the same time. The source clock is alternatively transmitted between the two down counters using a switcher.
 ---
 
 
