@@ -1,5 +1,5 @@
 # Hi, I'm Rohit 👋
-I am a Computer Science Student at NITK. I have a deep passion for coding and constantly strive to enhance my skills by learning new technologies. My areas of interest include web development, programming, and many more.
+I am final year BTech Computer Science Student at NITK. I have a deep passion for coding and constantly strive to enhance my skills by learning new technologies. My areas of interest include web development, programming, and many more.
 
 ---
 
