@@ -1,26 +1,19 @@
-# 💫 About Me:
-I am a Computer Science Student at NITK. I have a deep passion for coding and constantly strive to enhance my skills by learning new technologies. My areas of interest include web development, programming, and many more.
-
 # Hi, I'm Rohit 👋
-
-I'm a full-stack developer who builds scalable systems, real-time platforms, and performance-driven web applications.
+I am a Computer Science Student at NITK. I have a deep passion for coding and constantly strive to enhance my skills by learning new technologies. My areas of interest include web development, programming, and many more.
 
 ---
 
 ## Featured Projects
 
 - **[Synqly](https://github.com/rohitmanohar2108/Synqly)** – Real-time WebRTC communication with custom signaling and Dockerized deployment.  
-- **[Air Wise](https://github.com/rohitmanohar2108/Airline_Reservation_System)** – Airline reservation system using React, Node.js, MySQL.  
-- **[JA3 Malware Detection](#)** – TLS fingerprint-based threat detection without payload decryption.
+- **[Fake Job Posting Detection](https://github.com/rohitmanohar2108/Fake-Job-Post-Detection-ML-Model-)** – Detect fraudulent job postings using a machine learning model trained on job metadata and textual features.
+- **[Real Time Chat Application](https://github.com/rohitmanohar2108/Real_Time_Chat_Application)** - This project is a scalable real-time WebSocket application built using Node.js, WebSockets, and Redis (Valkey-compatible) deployed on Aiven Cloud.
+- **[Real_Time_Device_Tracker](https://github.com/rohitmanohar2108/Real_Time_Device_Tracker)** - This project is a scalable real-time WebSocket application built using Node.js, WebSockets, and Redis (Valkey-compatible) deployed on Aiven Cloud.
+- **[Air Wise](https://github.com/rohitmanohar2108/Airline_Reservation_System)** – Developed a web application that allows users to book seats across various airline services.
+- **[Crypto Trade Simulator](https://github.com/rohitmanohar2108/Crypto-Trade-Simulator)** - A high-performance, real-time cryptocurrency trade simulator that connects to the OKX exchange’s L2 orderbook.
+- **[QuickRent](https://github.com/rohitmanohar2108/QuickRent)** - QuickRent is a web application that allows users to easily explore, rent, and manage gadgets online.This OS-Simulator project is built by a team of 10 students from NITK, Surathkal, in partial fulfilment of the Operating Systems course (CS252) offered by the CSE Department of the institute.QuickRent is a web application that allows users to easily explore, rent, and manage gadgets online.
 
 ---
-
-## All Projects
-
-- **Synqly** – WebRTC video communication  
-- **Air Wise** – Airline booking system  
-- **Fake Job Post ML** – Fraud detection using LightGBM  
-- **Page Replacement Simulator** – OS algorithm visualizer  
 
 
 # 💻 Tech Stack:
